@@ -384,16 +384,16 @@ about us.html
 ```
 ## OUTPUT:
 bootstrap
-![alt text](<Screenshot 2024-05-12 105407.png>)
 
+![alt text](<Screenshot 2024-05-13 131605.png>)
 products
-![alt text](<Screenshot 2024-05-12 110153.png>)
+![alt text](<Screenshot 2024-05-13 131306.png>)
 
 event
-![alt text](<Screenshot 2024-05-12 110210.png>)
+![alt text](<Screenshot 2024-05-13 131353.png>)
 
 about us
-![alt text](<Screenshot 2024-05-12 110233.png>)
+![alt text](<Screenshot 2024-05-13 131511.png>)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
